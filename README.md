@@ -1,2 +1,2 @@
-# datasci-portfolio
+# datasci
 Data science projects
